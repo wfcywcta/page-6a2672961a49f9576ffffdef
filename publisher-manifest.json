@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "13b50fb146bed977f5eb7937",
+  "owner": "wfcywcta",
+  "repo": "page-6a2672961a49f9576ffffdef",
+  "title": "Taohai",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a2672961a49f9576ffffdef",
+      "a": "Taohai",
+      "b": "机场官网线路发布页",
+      "entity": "Taohai",
+      "brand": "Taohai",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c99f0bff774480ed0c013b521c470e984955984e06a7fab5a7dbc2cde57204d1",
+      "content": {
+        "primary_entity": "Taohai",
+        "keyword1": "Taohai",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，Taohai 提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 与 ¥85，按年付可省两个月费用。流量从每月 100GB 到 1000GB 不等，设备数覆盖 3 台到 20 台，适合个人日常浏览、流媒体观看与小型团队协作。选购时先确认常用设备数量与月流量需求，再对照线路特性选择版本。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选版本",
+          "AI_HERO_INTRO": "Taohai 是面向海外网络访问的加速服务，提供基础版、旗舰版和团队版三档订阅。用户可根据日常流量消耗与同时在线设备数量选择合适版本，并通过订阅链接在常用客户端中完成配置。",
+          "AI_VISUAL_TITLE": "Taohai 订阅版本速览",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "客户端订阅导入配置",
+          "AI_FEATURES_TITLE": "订阅版本怎么选",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度对比套餐，能更快定位适合的版本。",
+          "AI_FEATURE_TITLE_1": "按流量需求选版本",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合轻度浏览，旗舰版 300GB 满足流媒体与日常使用，团队版 1000GB 适合多成员共享。",
+          "AI_FEATURE_TITLE_2": "按设备数量选版本",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备同时在线，旗舰版扩展到 5 台，团队版可容纳 20 台设备并行连接。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选付费方式",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，按年付更划算，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。",
+          "AI_CLIENTS_TITLE": "各平台客户端选择",
+          "AI_CLIENTS_INTRO": "不同操作系统对应不同客户端，按设备类型选择即可。",
+          "AI_PLANS_TITLE": "套餐版本对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路类型上逐级增强：基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别只需 ¥150、¥350 和 ¥850。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "按步骤完成版本选择与客户端订阅导入。",
+          "AI_STEP_TITLE_1": "选择订阅版本",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统与客户端类型，参照对应客户端文档准备环境。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按所选客户端文档指引导入节点并启用连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Taohai 基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，使用普通线路节点池；旗舰版每月 300GB、支持 5 台设备，提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，并包含 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB 流量、支持 20 台设备同时在线，配有 VIP 专属高带宽节点与企业定制路由，适合小型工作室或多成员共享订阅，并提供专属客户经理服务。",
+          "AI_FAQ_QUESTION_3": "按年付能节省多少费用？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，按年付仅需 ¥150/年；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。按年付相当于免去两个月费用。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_4": "先根据设备系统选择对应客户端，再参照该客户端的订阅导入文档，将订阅链接添加到客户端中即可获取节点列表并启用连接。",
+          "AI_FAQ_QUESTION_5": "同时在线设备数超出上限会怎样？",
+          "AI_FAQ_ANSWER_5": "套餐内的设备数量为同时在线上限，基础版 3 台、旗舰版 5 台、团队版 20 台。若常用设备较多，建议选择设备数更高的版本，以免频繁下线切换。",
+          "AI_CLOSING_TITLE": "选择合适的订阅版本",
+          "AI_CLOSING_TEXT": "对照设备数量与月流量需求，选定基础版、旗舰版或团队版，再按客户端文档导入订阅开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wsjlrc.cn",
+    "host": "wsjlrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "d36ed15cb69771082aab8dc6665c38d1172337322101c53966ee81616bafd67d",
+    "sitemap.xml": "c54f8841f1c11f9f28b89a6216249ab9eb4c301efefbbdad06db09c78c00ea0b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "223ca61a211846dc34647d9823c5eecee5793be00ec0a79a20ff8f4c6dcc2e5e",
+    "robots.txt": "2682cb5a32ac1c54c353a8eb079c398120587bcc81b1a2ac34a2dc0fc30817c6",
+    "6e12ffc0a15b406c6b67c4a9193c6aab.txt": "4dfdd11e47a03fcc6af1156ca4426dba99174abc3dc84101aec43fcc63866fb2"
+  },
+  "revision": "f40b3f5136c167161c5d23399bce033b5f4343da2239137d5e979380deaffa3f"
+}
